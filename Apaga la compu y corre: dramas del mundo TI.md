@@ -1,3 +1,9 @@
+# recommended voices
+```
+male: Achird
+female: Achernar
+```
+
 # Raw structure
 ```
 [
