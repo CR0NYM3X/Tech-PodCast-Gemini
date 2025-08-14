@@ -9,67 +9,99 @@ female: Achernar
 [
   {
     "speaker": "miguel",
-    "text": "¡Hola a todos y bienvenidos a un nuevo episodio de TecnoChisme ! Yo soy Miguel..."
+    "text": "[efecto de notificación] ¡Hola, hola! Bienvenidos a otro episodio de TecnoChisme, el podcast donde los bugs no se esconden y los chismes tech salen a la luz. Yo soy Miguel, y si es tu primera vez por aquí... ¡prepárate para reír, aprender y sentirte parte de esta tribu tecnológica que vive entre deploys, memes y uno que otro fail!"
   },
   {
     "speaker": "sofia",
-    "text": "¡Y yo soy Sofía! Y hoy, Miguel, vamos a hablar de algo que a todos nos toca, nos guste o no... los problemas en el trabajo."
+    "text": "¡Y yo soy Sofía! Y hoy, Miguel, vamos a hablar de algo que no viene en el manual de onboarding, pero que todos vivimos: los problemas humanos en el trabajo. ¡No los técnicos, eh! [risa de fondo]"
   },
   {
     "speaker": "miguel",
-    "text": "¡Exacto! Pero no los problemas técnicos, de esos ya nos encargamos todos los días. Hablamos de esos problemas... más humanos. Esas situaciones que nos hacen querer apagar la computadora y salir corriendo."
+    "text": "¡Exacto! Esas situaciones que te hacen querer apagar la compu, cerrar el Slack y mudarte al bosque a criar alpacas. Jajaja. ¡Esto es un meme viviente!"
   },
   {
     "speaker": "sofia",
-    "text": "Jajaja, ¡tal cual! Y creo que un tema súper común, especialmente en el mundo de TI, es el famoso Síndrome del Impostor. ¿Te ha pasado? Que te contratan para un puesto y piensas: 'No tengo ni idea de lo que estoy haciendo, me van a descubrir'."
+    "text": "¡Literal! Y uno de los más comunes en TI es el famosísimo Síndrome del Impostor. ¿Te ha pasado? Que te contratan y piensas: '¿Qué hago aquí? ¿Cuándo se van a dar cuenta que no sé nada?'"
   },
   {
     "speaker": "miguel",
-    "text": "¡Uf, claro! Más de una vez. Es como una voz en tu cabeza que te dice que eres un fraude. Y lo peor es que esto a menudo te paraliza. Te da miedo preguntar, te da miedo proponer una idea porque crees que es una tontería."
+    "text": "¡Uf, claro! Es como tener un troll interno que te susurra: 'Eres un fraude'. Y lo peor es que te paraliza. No preguntas, no propones... solo sobrevives como en modo mantenimiento."
   },
   {
     "speaker": "sofia",
-    "text": "Es muy común, y creo que la clave es hablarlo. Darte cuenta de que todos lo sentimos. No hay ningún experto que no haya dudado de sus habilidades. La vulnerabilidad en el trabajo no es debilidad, es una fortaleza. Es lo que te permite crecer."
+    "text": "¡Eso es muy real! Y lo más loco es que hasta el developer más crack ha dudado de sí mismo. La clave está en hablarlo. La vulnerabilidad no es debilidad, ¡es evolución!"
   },
   {
     "speaker": "miguel",
-    "text": "100% de acuerdo. Otro problema que veo mucho, y este sí es un clásico, es la mala comunicación. Jefes que dan instrucciones vagas, compañeros que no responden a los correos... ¿Sabes cuando te mandan un mensaje que dice 'Oye, ¿podemos hablar?' y te quedas con el corazón en la mano todo el día?"
+    "text": "¡Tal cual! Y hablando de cosas que nos frenan... ¿qué me dices de la mala comunicación? Jefes que mandan mensajes como '¿podemos hablar?' y tú ya estás redactando tu carta de renuncia. [risa de fondo]"
   },
   {
     "speaker": "sofia",
-    "text": "¡Ay, por favor! Y a veces son cosas simples. El problema es que en un equipo de TI, la falta de comunicación puede detener un proyecto entero. De un simple 'entendido' a un 'voy a revisar esto', la diferencia es enorme."
+    "text": "¡Jajajaja no puedo con eso! Y lo peor es que a veces solo era para preguntarte si querías café. Pero en TI, un mal mensaje puede frenar todo un sprint. ¡Esto merece un Alt+F4!"
   },
   {
     "speaker": "miguel",
-    "text": "Y fíjate, hablando de jefes, ¿qué me dices de las expectativas poco realistas? Proyectos que se tienen que entregar 'para ayer', o la famosa 'cultura del siempre disponible'. Como estamos en TI, se asume que si hay un problema a las 11 de la noche, tienes que responder."
+    "text": "Y si le sumas expectativas poco realistas... ¡boom! Proyectos para ayer, reuniones eternas, y la cultura del 'siempre disponible'. Como si fuéramos servidores sin downtime. [alerta de sistema]"
   },
   {
     "speaker": "sofia",
-    "text": "Y ahí es donde entra la importancia de poner límites. Entiendo que a veces hay emergencias, pero no puede ser la norma. Es fundamental desconectarse para recargar energías. La salud mental es tan importante como el código que escribimos."
+    "text": "¡Qué fuerte! Y ahí es donde entra el arte de poner límites. Porque sí, hay emergencias, pero no puede ser la norma. ¡Desconectarse también es parte del rendimiento!"
   },
   {
     "speaker": "miguel",
-    "text": "Completamente. Y para eso, a veces hay que aprender a decir que no, o a negociar plazos. Es mejor ser honesto desde el principio que prometer algo que no puedes cumplir y luego generar frustración."
+    "text": "¡Me explotó la cabeza! Y para eso hay que aprender a decir 'no', o al menos 'no así'. Negociar plazos, ser honestos... eso evita frustraciones y burnout."
   },
   {
     "speaker": "sofia",
-    "text": "Me parece un consejo excelente. Y para cerrar, creo que un problema que también se relaciona con todo lo que hemos dicho es la falta de reconocimiento. Cuando trabajas en algo con pasión, un simple 'buen trabajo' o un 'gracias' puede hacer una gran diferencia."
+    "text": "¡Justo eso! Y hablando de burnout... ¿qué me dices de cuando ya estás cansado, desmotivado, y cada día se siente como un loop infinito de tareas sin sentido?"
   },
   {
     "speaker": "miguel",
-    "text": "No podría haberlo dicho mejor. A veces nos enfocamos tanto en los números y en el código que olvidamos el impacto de las palabras. ¡Pequeños gestos pueden hacer una gran diferencia!"
+    "text": "¡Totalmente! Es ese momento donde ni el café te salva, y hasta el meme del día te da flojera. ¿Te ha pasado, Sofía?"
   },
   {
     "speaker": "sofia",
-    "text": "Así que, si te sientes identificado con alguno de estos problemas, no estás solo. Lo más importante es que busques apoyo, hables con tus compañeros y, sobre todo, no te rindas. ¡Hay soluciones!"
+    "text": "¡Uf, claro! Me pasó hace unos meses. Estaba en un proyecto que parecía eterno, con cambios de último minuto, sin reconocimiento, y encima con reuniones a las 7am. Un día, abrí el IDE... y me quedé mirando la pantalla como 10 minutos sin escribir ni una línea. Me sentía vacía. [pausa breve] Lo hablé con mi líder y me tomé unos días. ¡Fue lo mejor que pude hacer!"
   },
   {
     "speaker": "miguel",
-    "text": "Y con esto nos despedimos por hoy. Muchísimas gracias por acompañarnos. Nos vemos en el próximo episodio de TecnoChisme ."
+    "text": "¡Qué valiente! Y qué importante es reconocer esos momentos. Porque sí, el burnout es real. Es ese agotamiento físico, emocional y mental que aparece cuando la carga de trabajo se vuelve insostenible."
   },
   {
     "speaker": "sofia",
-    "text": "¡Hasta la próxima!"
+    "text": "¡Exacto! Y no es flojera, es tu cuerpo diciendo: 'Ya basta'. Por eso hay que cuidarnos, hablarlo, y sobre todo... no normalizar el cansancio crónico."
+  },
+  {
+    "speaker": "miguel",
+    "text": "Y para cerrar con broche de oro: la falta de reconocimiento. Un 'gracias' puede valer más que un bono. Bueno... casi. [risa de fondo]"
+  },
+  {
+    "speaker": "sofia",
+    "text": "¡Jajaja! Pero sí, los pequeños gestos hacen la diferencia. No todo es código, también somos personas. ¡Y eso hay que celebrarlo!"
+  },
+  {
+    "speaker": "miguel",
+    "text": "Así que si te sentiste identificado, no estás solo. Habla, comparte, y sobre todo... ¡no te rindas!"
+  },
+  {
+    "speaker": "sofia",
+    "text": "Y ahora sí, el Tecnochisme del día: ¿Sabías que GitHub está probando una función para detectar burnout en desarrolladores según su actividad en los repos? ¡No lo vas a creer! [sonido de teclado frenético]"
+  },
+  {
+    "speaker": "miguel",
+    "text": "¡Queeeee! Estoy sorprendido. La idea es usar patrones como commits nocturnos, falta de pausas o mensajes de frustración para detectar si alguien está quemado. ¡Me siento observado!"
+  },
+  {
+    "speaker": "sofia",
+    "text": "¡Ay, por favor! Si sirve para cuidarnos, ¡bienvenido sea! Eso sí, que no lo usen para medir productividad, ¿eh?"
+  },
+  {
+    "speaker": "miguel",
+    "text": "¡Tal cual! Y ahora sí, gracias por acompañarnos. Si te gustó este episodio, compártelo con tu equipo, tu jefe... o tu troll interno. ¡Nos vemos en el próximo TecnoChisme!"
+  },
+  {
+    "speaker": "sofia",
+    "text": "¡Hasta la próxima! Y recuerda: si algo te estresa... ¡Alt+F4!"
   }
 ]
 ```
@@ -79,21 +111,21 @@ female: Achernar
 {
   "general_style": {
     "tone": "muy amigable, informal y divertido",
-    "purpose": "Simular una conversación genuina entre dos amigos del área de TI. Queremos que suene como una plática casual y no un guion.",
+    "purpose": "Simular una conversación genuina entre dos amigos del área de TI. Queremos que suene como una plática casual y no un guion. no quiero tampoco que esten como si estuvieran vendiendo algo",
     "audible_reactions": "Incluir risas espontáneas (jajaja), exclamaciones de sorpresa (¡ay, por favor!), y comentarios que refuerzan el diálogo (tal cual).",
     "target_audience": "Profesionales jóvenes y adultos del sector de TI."
   },
   "speakers": {
-    "diego": {
+    "miguel": {
       "voice_id": "Algenib",
       "gender": "male",
-      "personality": "extrovertida, muy expresiva y risueña. Refuerza las ideas de Diego y aporta sus propios puntos de vista con pasión. Sonido de amiga que te hace sentir escuchado.",
-      "emotions": "muy alegre y risueña, se ríe de los chistes y se emociona al dar consejos."
+      "personality": "muy alegre y risueño, se ríe de los chistes y se emociona al dar consejos. Refuerza las ideas de Sofía y aporta sus propios puntos de vista con pasión.",
+      "emotions": "muy alegre y risueño, se ríe de los chistes y se emociona al dar consejos."
     },
-    "ana": {
+    "sofia": {
       "voice_id": "Achernar",
       "gender": "female",
-      "personality": "extrovertida, muy expresiva y risueña. Refuerza las ideas de Diego y aporta sus propios puntos de vista con pasión. Sonido de amiga que te hace sentir escuchado.",
+      "personality": "extrovertida, muy expresiva y risueña. Hace segunda a Miguel, cuenta anécdotas y chismes, y reacciona con entusiasmo.",
       "emotions": "muy alegre y risueña, se ríe de los chistes y se emociona al dar consejos."
     }
   }
