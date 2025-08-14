@@ -1,7 +1,7 @@
 # recommended voices
 ```
 male: Achird
-female: Achernar o sulafar
+female: Achernar o sulafat
 ```
 
 # Raw structure
